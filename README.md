@@ -14,3 +14,7 @@ Pi will outpt the video in .h264 format and write the time of the motion detecti
 # Contributors
 
 - MrWhoCoded
+
+# License
+
+Licensed under [MIT License](LICENSE)
